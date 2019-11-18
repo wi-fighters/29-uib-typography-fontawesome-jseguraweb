@@ -8,3 +8,8 @@ h1 {
     text-decoration: underline;
 }
 
+.review {
+    text-align: center;
+    text-shadow: 2px 2px 2px grey;
+    text-transform: uppercase;
+}
