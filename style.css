@@ -8,8 +8,16 @@ h1 {
     text-decoration: underline;
 }
 
+footer,
 .review {
     text-align: center;
+}
+
+.review {
     text-shadow: 2px 2px 2px grey;
     text-transform: uppercase;
+}
+
+i {
+    font-size: 2rem;
 }
